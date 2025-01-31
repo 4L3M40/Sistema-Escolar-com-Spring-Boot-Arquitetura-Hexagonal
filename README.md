@@ -54,6 +54,10 @@ As principais dependências do projeto são:
    spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
    spring.jpa.hibernate.ddl-auto=update
    spring.jpa.show-sql=true
+   ```
+
+   ## Endereço para utilizar API
+   http://localhost:8080/swagger-ui/index.html#/
 
 ---
 
